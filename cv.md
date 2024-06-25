@@ -1,10 +1,9 @@
 ## MY RESUME
 
-- - - 
 
 ### Name:
 
-> Matsiushenka Anton
+> **Matsiushenka Anton**
 - - - 
 
 ### Contacts:
@@ -51,3 +50,4 @@ func reverseBits(num uint32) uint32 {
 
 > English B2 https://cert.efset.org/BeHcC9  
 > Russian, Belarusian Native
+- - - 
